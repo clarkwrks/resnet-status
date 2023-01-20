@@ -13,6 +13,10 @@ sites:
     url: https://apps.nsercresnet.ca/
   - name: Monteregie Storymap
     url: https://apps.nsercresnet.ca/story/monteregie/
+  - name: Development Server
+    url: https://dev.nsercresnet.ca/
+  - name: Dummy Subdomain
+    url: https://null.nsercresnet.ca/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -24,8 +28,10 @@ status-website:
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
+    - title: ResNet Status
       href: /
+    - title: Cloud Server Status
+      href: https://status.alliancecan.ca/
    # - title: GitHub
    #   href: https://github.com/$OWNER/$REPO
 
