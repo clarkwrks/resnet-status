@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 735,
-    "timeDay": 735,
-    "timeWeek": 735,
-    "timeMonth": 735,
-    "timeYear": 735,
+    "time": 815,
+    "timeDay": 815,
+    "timeWeek": 815,
+    "timeMonth": 815,
+    "timeYear": 815,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1173,
-    "timeDay": 1173,
-    "timeWeek": 1173,
-    "timeMonth": 1173,
-    "timeYear": 1173,
+    "time": 1208,
+    "timeDay": 1208,
+    "timeWeek": 1208,
+    "timeMonth": 1208,
+    "timeYear": 1208,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 129,
-    "timeDay": 129,
-    "timeWeek": 129,
-    "timeMonth": 129,
-    "timeYear": 129,
+    "time": 136,
+    "timeDay": 136,
+    "timeWeek": 136,
+    "timeMonth": 136,
+    "timeYear": 136,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/apps.nsercresnet.ca.ico",
     "slug": "applications",
     "status": "down",
-    "uptime": "3.34%",
-    "uptimeDay": "3.34%",
-    "uptimeWeek": "3.34%",
-    "uptimeMonth": "3.34%",
-    "uptimeYear": "3.34%",
-    "time": 368,
-    "timeDay": 368,
-    "timeWeek": 368,
-    "timeMonth": 368,
-    "timeYear": 368,
+    "uptime": "0.27%",
+    "uptimeDay": "0.27%",
+    "uptimeWeek": "0.27%",
+    "uptimeMonth": "0.27%",
+    "uptimeYear": "0.27%",
+    "time": 330,
+    "timeDay": 330,
+    "timeWeek": 330,
+    "timeMonth": 330,
+    "timeYear": 330,
     "dailyMinutesDown": {
-      "2023-01-20": 0
+      "2023-01-20": 4
     }
   },
   {
@@ -84,11 +84,51 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 65,
-    "timeDay": 65,
-    "timeWeek": 65,
-    "timeMonth": 65,
-    "timeYear": 65,
+    "time": 67,
+    "timeDay": 67,
+    "timeWeek": 67,
+    "timeMonth": 67,
+    "timeYear": 67,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Development Server",
+    "url": "https://dev.nsercresnet.ca/",
+    "icon": "https://icons.duckduckgo.com/ip3/dev.nsercresnet.ca.ico",
+    "slug": "development-server",
+    "status": "down",
+    "uptime": "83.87%",
+    "uptimeDay": "83.87%",
+    "uptimeWeek": "83.87%",
+    "uptimeMonth": "83.87%",
+    "uptimeYear": "83.87%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-01-20": 0
+    }
+  },
+  {
+    "name": "Dummy Subdomain",
+    "url": "https://null.nsercresnet.ca/",
+    "icon": "https://icons.duckduckgo.com/ip3/null.nsercresnet.ca.ico",
+    "slug": "dummy-subdomain",
+    "status": "down",
+    "uptime": "8.79%",
+    "uptimeDay": "8.79%",
+    "uptimeWeek": "8.79%",
+    "uptimeMonth": "8.79%",
+    "uptimeYear": "8.79%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-01-20": 0
+    }
   }
 ]
