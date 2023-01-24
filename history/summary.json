@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nsercresnet.ca.ico",
     "slug": "main",
     "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
-    "time": 452,
-    "timeDay": 382,
-    "timeWeek": 452,
-    "timeMonth": 452,
-    "timeYear": 452,
-    "dailyMinutesDown": {
-      "2023-01-23": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 492,
+    "timeDay": 737,
+    "timeWeek": 492,
+    "timeMonth": 492,
+    "timeYear": 492,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Data Portal",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 919,
-    "timeDay": 918,
-    "timeWeek": 919,
-    "timeMonth": 919,
-    "timeYear": 919,
+    "time": 960,
+    "timeDay": 1247,
+    "timeWeek": 960,
+    "timeMonth": 960,
+    "timeYear": 960,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 124,
-    "timeDay": 112,
-    "timeWeek": 124,
-    "timeMonth": 124,
-    "timeYear": 124,
+    "time": 131,
+    "timeDay": 175,
+    "timeWeek": 131,
+    "timeMonth": 131,
+    "timeYear": 131,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 104,
-    "timeWeek": 209,
-    "timeMonth": 209,
-    "timeYear": 209,
+    "time": 233,
+    "timeDay": 398,
+    "timeWeek": 233,
+    "timeMonth": 233,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 42,
-    "timeDay": 23,
-    "timeWeek": 42,
-    "timeMonth": 42,
-    "timeYear": 42,
+    "time": 46,
+    "timeDay": 70,
+    "timeWeek": 46,
+    "timeMonth": 46,
+    "timeYear": 46,
     "dailyMinutesDown": {}
   }
 ]
