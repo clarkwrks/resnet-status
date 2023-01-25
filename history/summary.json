@@ -58,19 +58,19 @@
     "url": "https://apps.nsercresnet.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/apps.nsercresnet.ca.ico",
     "slug": "applications",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 265,
-    "timeDay": 303,
-    "timeWeek": 265,
-    "timeMonth": 265,
-    "timeYear": 265,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 268,
+    "timeDay": 305,
+    "timeWeek": 268,
+    "timeMonth": 268,
+    "timeYear": 268,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 6
     }
   },
   {
