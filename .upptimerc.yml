@@ -17,7 +17,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.clarkwrks.com
+  cname: status.xylemgeo.com
   # baseUrl: /resnet-status
   logoUrl: https://www.nsercresnet.ca/uploads/6/3/9/8/6398839/published/resnet-logo-4x.png
   name: ResNet Status
