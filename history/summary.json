@@ -4,19 +4,19 @@
     "url": "https://www.nsercresnet.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nsercresnet.ca.ico",
     "slug": "main",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
-    "time": 538,
-    "timeDay": 331,
-    "timeWeek": 473,
-    "timeMonth": 530,
-    "timeYear": 538,
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 536,
+    "timeDay": 338,
+    "timeWeek": 468,
+    "timeMonth": 526,
+    "timeYear": 536,
     "dailyMinutesDown": {
-      "2023-04-21": 22
+      "2023-04-21": 16
     }
   },
   {
