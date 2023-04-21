@@ -4,18 +4,20 @@
     "url": "https://www.nsercresnet.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nsercresnet.ca.ico",
     "slug": "main",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 553,
-    "timeDay": 613,
-    "timeWeek": 636,
-    "timeMonth": 579,
-    "timeYear": 553,
-    "dailyMinutesDown": {}
+    "time": 552,
+    "timeDay": 537,
+    "timeWeek": 614,
+    "timeMonth": 576,
+    "timeYear": 552,
+    "dailyMinutesDown": {
+      "2023-04-21": 0
+    }
   },
   {
     "name": "Data Portal",
