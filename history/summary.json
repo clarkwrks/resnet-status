@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nsercresnet.ca.ico",
     "slug": "main",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
-    "time": 522,
-    "timeDay": 321,
-    "timeWeek": 412,
-    "timeMonth": 491,
-    "timeYear": 522,
+    "uptime": "99.99%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 525,
+    "timeDay": 338,
+    "timeWeek": 423,
+    "timeMonth": 504,
+    "timeYear": 525,
     "dailyMinutesDown": {
-      "2023-04-21": 23
+      "2023-04-21": 16
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 977,
-    "timeDay": 744,
-    "timeWeek": 1152,
-    "timeMonth": 1021,
-    "timeYear": 977,
+    "time": 973,
+    "timeDay": 635,
+    "timeWeek": 1047,
+    "timeMonth": 1008,
+    "timeYear": 973,
     "dailyMinutesDown": {}
   },
   {
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 270,
-    "timeWeek": 132,
+    "timeDay": 137,
+    "timeWeek": 133,
     "timeMonth": 145,
     "timeYear": 131,
     "dailyMinutesDown": {}
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 266,
-    "timeDay": 406,
-    "timeWeek": 311,
-    "timeMonth": 254,
+    "timeDay": 308,
+    "timeWeek": 309,
+    "timeMonth": 259,
     "timeYear": 266,
     "dailyMinutesDown": {}
   },
@@ -85,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 52,
-    "timeDay": 56,
-    "timeWeek": 61,
-    "timeMonth": 50,
+    "timeDay": 68,
+    "timeWeek": 62,
+    "timeMonth": 51,
     "timeYear": 52,
     "dailyMinutesDown": {}
   }
