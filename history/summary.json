@@ -4,9 +4,9 @@
     "url": "https://www.nsercresnet.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nsercresnet.ca.ico",
     "slug": "main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 801,
     "timeYear": 581,
     "dailyMinutesDown": {
+      "2023-05-22": 0,
       "2023-04-22": 21,
       "2023-04-21": 16
     }
@@ -26,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/data.nsercresnet.ca.ico",
     "slug": "data-portal",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "97.35%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 1117,
     "timeDay": 6092,
     "timeWeek": 2899,
     "timeMonth": 1547,
     "timeYear": 1117,
     "dailyMinutesDown": {
-      "2023-05-22": 38
+      "2023-05-22": 23
     }
   },
   {
