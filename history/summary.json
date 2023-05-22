@@ -12,8 +12,8 @@
     "uptimeYear": "99.98%",
     "time": 581,
     "timeDay": 596,
-    "timeWeek": 1835,
-    "timeMonth": 714,
+    "timeWeek": 823,
+    "timeMonth": 801,
     "timeYear": 581,
     "dailyMinutesDown": {
       "2023-04-22": 21,
@@ -25,9 +25,9 @@
     "url": "https://data.nsercresnet.ca",
     "icon": "https://icons.duckduckgo.com/ip3/data.nsercresnet.ca.ico",
     "slug": "data-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 1269,
     "timeMonth": 1076,
     "timeYear": 998,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-22": 0
+    }
   },
   {
     "name": "Document Library",
