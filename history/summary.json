@@ -4,9 +4,9 @@
     "url": "https://www.nsercresnet.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nsercresnet.ca.ico",
     "slug": "main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 839,
     "timeYear": 575,
     "dailyMinutesDown": {
+      "2023-06-03": 0,
       "2023-05-28": 21,
       "2023-04-22": 21,
       "2023-04-21": 16
