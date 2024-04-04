@@ -1,7 +1,7 @@
 url: https://apps.nsercresnet.ca/
-status: up
-code: 200
-responseTime: 250
-lastUpdated: 2024-04-03T23:02:40.592Z
+status: down
+code: 502
+responseTime: 125
+lastUpdated: 2024-04-04T18:51:48.299Z
 startTime: 2023-01-20T21:52:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
