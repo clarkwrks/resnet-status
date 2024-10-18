@@ -1,7 +1,7 @@
 url: https://www.nsercresnet.ca
-status: up
-code: 200
-responseTime: 251
-lastUpdated: 2024-10-17T23:02:53.478Z
+status: down
+code: 503
+responseTime: 10316
+lastUpdated: 2024-10-18T13:41:01.672Z
 startTime: 2023-01-20T21:52:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
