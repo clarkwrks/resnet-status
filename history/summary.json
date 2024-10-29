@@ -40,9 +40,9 @@
     "url": "https://data.nsercresnet.ca",
     "icon": "https://icons.duckduckgo.com/ip3/data.nsercresnet.ca.ico",
     "slug": "data-portal",
-    "status": "up",
-    "uptime": "91.90%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "91.91%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.57%",
@@ -52,6 +52,7 @@
     "timeMonth": 502,
     "timeYear": 993,
     "dailyMinutesDown": {
+      "2024-10-29": 0,
       "2024-10-11": 17,
       "2024-08-15": 34,
       "2024-08-06": 29,
@@ -102,7 +103,7 @@
     "uptimeYear": "96.72%",
     "time": 315,
     "timeDay": 316,
-    "timeWeek": 287,
+    "timeWeek": 297,
     "timeMonth": 357,
     "timeYear": 325,
     "dailyMinutesDown": {
@@ -146,7 +147,7 @@
     "uptimeYear": "99.67%",
     "time": 93,
     "timeDay": 64,
-    "timeWeek": 48,
+    "timeWeek": 49,
     "timeMonth": 53,
     "timeYear": 106,
     "dailyMinutesDown": {
