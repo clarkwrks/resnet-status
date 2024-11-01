@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 536,
-    "timeDay": 216,
-    "timeWeek": 205,
+    "time": 534,
+    "timeDay": 227,
+    "timeWeek": 200,
     "timeMonth": 1137,
     "timeYear": 485,
     "dailyMinutesDown": {
@@ -41,14 +41,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/data.nsercresnet.ca.ico",
     "slug": "data-portal",
     "status": "up",
-    "uptime": "91.92%",
+    "uptime": "91.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.57%",
-    "time": 1017,
-    "timeDay": 643,
-    "timeWeek": 517,
+    "time": 1016,
+    "timeDay": 567,
+    "timeWeek": 519,
     "timeMonth": 514,
     "timeYear": 988,
     "dailyMinutesDown": {
@@ -67,8 +67,7 @@
       "2024-02-22": 419,
       "2024-01-11": 153,
       "2024-01-10": 356,
-      "2023-11-13": 43,
-      "2023-11-02": 86
+      "2023-11-13": 43
     }
   },
   {
@@ -83,8 +82,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 79,
-    "timeWeek": 110,
+    "timeDay": 68,
+    "timeWeek": 109,
     "timeMonth": 114,
     "timeYear": 98,
     "dailyMinutesDown": {}
@@ -101,10 +100,10 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "96.72%",
     "time": 315,
-    "timeDay": 284,
-    "timeWeek": 249,
-    "timeMonth": 353,
-    "timeYear": 325,
+    "timeDay": 337,
+    "timeWeek": 253,
+    "timeMonth": 354,
+    "timeYear": 326,
     "dailyMinutesDown": {
       "2024-10-17": 19,
       "2024-10-12": 17,
@@ -128,8 +127,7 @@
       "2024-02-23": 1440,
       "2024-02-22": 418,
       "2024-01-11": 153,
-      "2024-01-10": 355,
-      "2023-11-02": 86
+      "2024-01-10": 355
     }
   },
   {
@@ -138,13 +136,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/apps.nsercresnet.ca.ico",
     "slug": "monteregie-storymap",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.67%",
     "time": 94,
-    "timeDay": 54,
+    "timeDay": 69,
     "timeWeek": 49,
     "timeMonth": 53,
     "timeYear": 106,
@@ -156,8 +154,7 @@
       "2024-02-23": 53,
       "2024-02-22": 418,
       "2024-01-11": 153,
-      "2024-01-10": 355,
-      "2023-11-02": 83
+      "2024-01-10": 355
     }
   }
 ]
