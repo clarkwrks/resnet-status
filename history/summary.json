@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 512,
-    "timeDay": 566,
-    "timeWeek": 302,
-    "timeMonth": 261,
+    "time": 511,
+    "timeDay": 284,
+    "timeWeek": 308,
+    "timeMonth": 262,
     "timeYear": 463,
     "dailyMinutesDown": {
       "2024-12-08": 21,
@@ -42,17 +42,16 @@
     "slug": "data-portal",
     "status": "up",
     "uptime": "92.71%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 933,
-    "timeDay": 520,
-    "timeWeek": 510,
-    "timeMonth": 580,
+    "time": 932,
+    "timeDay": 492,
+    "timeWeek": 501,
+    "timeMonth": 578,
     "timeYear": 911,
     "dailyMinutesDown": {
-      "2025-01-08": 7,
       "2024-11-07": 28,
       "2024-10-11": 17,
       "2024-08-15": 34,
@@ -67,8 +66,7 @@
       "2024-03-01": 42,
       "2024-02-23": 53,
       "2024-02-22": 419,
-      "2024-01-11": 153,
-      "2024-01-10": 356
+      "2024-01-11": 153
     }
   },
   {
@@ -83,9 +81,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 60,
-    "timeWeek": 103,
-    "timeMonth": 95,
+    "timeDay": 89,
+    "timeWeek": 102,
+    "timeMonth": 94,
     "timeYear": 100,
     "dailyMinutesDown": {}
   },
@@ -96,17 +94,16 @@
     "slug": "applications",
     "status": "up",
     "uptime": "98.32%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "96.73%",
     "time": 324,
-    "timeDay": 298,
-    "timeWeek": 302,
+    "timeDay": 274,
+    "timeWeek": 289,
     "timeMonth": 282,
     "timeYear": 345,
     "dailyMinutesDown": {
-      "2025-01-08": 6,
       "2024-11-13": 26,
       "2024-11-12": 2,
       "2024-11-07": 27,
@@ -131,8 +128,7 @@
       "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 418,
-      "2024-01-11": 153,
-      "2024-01-10": 355
+      "2024-01-11": 153
     }
   },
   {
@@ -142,17 +138,16 @@
     "slug": "monteregie-storymap",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 118,
-    "timeDay": 60,
-    "timeWeek": 57,
-    "timeMonth": 334,
+    "timeDay": 55,
+    "timeWeek": 55,
+    "timeMonth": 333,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-01-08": 6,
       "2024-11-07": 20,
       "2024-10-17": 18,
       "2024-08-06": 28,
@@ -160,8 +155,7 @@
       "2024-06-04": 317,
       "2024-02-23": 53,
       "2024-02-22": 418,
-      "2024-01-11": 153,
-      "2024-01-10": 355
+      "2024-01-11": 153
     }
   }
 ]
