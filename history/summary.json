@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 483,
-    "timeDay": 205,
-    "timeWeek": 230,
-    "timeMonth": 235,
-    "timeYear": 473,
+    "time": 482,
+    "timeDay": 211,
+    "timeWeek": 224,
+    "timeMonth": 237,
+    "timeYear": 472,
     "dailyMinutesDown": {
       "2024-12-08": 21,
       "2024-04-14": 67,
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/data.nsercresnet.ca.ico",
     "slug": "data-portal",
     "status": "up",
-    "uptime": "93.18%",
+    "uptime": "93.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 899,
-    "timeDay": 421,
-    "timeWeek": 483,
-    "timeMonth": 581,
-    "timeYear": 852,
+    "time": 898,
+    "timeDay": 549,
+    "timeWeek": 484,
+    "timeMonth": 591,
+    "timeYear": 849,
     "dailyMinutesDown": {
       "2024-11-07": 28,
       "2024-10-11": 17,
@@ -62,8 +62,7 @@
       "2024-06-04": 318,
       "2024-05-14": 19,
       "2024-03-15": 16,
-      "2024-03-13": 16,
-      "2024-03-01": 42
+      "2024-03-13": 16
     }
   },
   {
@@ -78,9 +77,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 181,
-    "timeWeek": 105,
-    "timeMonth": 105,
+    "timeDay": 100,
+    "timeWeek": 112,
+    "timeMonth": 102,
     "timeYear": 105,
     "dailyMinutesDown": {}
   },
@@ -94,11 +93,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.28%",
-    "time": 323,
-    "timeDay": 189,
+    "uptimeYear": "98.83%",
+    "time": 324,
+    "timeDay": 312,
     "timeWeek": 272,
-    "timeMonth": 266,
+    "timeMonth": 269,
     "timeYear": 346,
     "dailyMinutesDown": {
       "2024-11-13": 26,
@@ -115,8 +114,7 @@
       "2024-05-15": 17,
       "2024-03-04": 1030,
       "2024-03-03": 1440,
-      "2024-03-02": 1440,
-      "2024-03-01": 1440
+      "2024-03-02": 1440
     }
   },
   {
@@ -131,9 +129,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 118,
-    "timeDay": 38,
+    "timeDay": 64,
     "timeWeek": 55,
-    "timeMonth": 52,
+    "timeMonth": 53,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2024-11-07": 20,
