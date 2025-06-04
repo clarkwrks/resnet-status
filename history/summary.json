@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 411,
-    "timeDay": 229,
-    "timeWeek": 225,
+    "timeDay": 220,
+    "timeWeek": 226,
     "timeMonth": 251,
-    "timeYear": 401,
+    "timeYear": 400,
     "dailyMinutesDown": {
       "2024-12-08": 21
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/data.nsercresnet.ca.ico",
     "slug": "data-portal",
     "status": "up",
-    "uptime": "93.93%",
+    "uptime": "93.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 787,
-    "timeDay": 559,
-    "timeWeek": 518,
-    "timeMonth": 586,
-    "timeYear": 723,
+    "time": 786,
+    "timeDay": 549,
+    "timeWeek": 519,
+    "timeMonth": 574,
+    "timeYear": 722,
     "dailyMinutesDown": {
       "2025-03-26": 36,
       "2024-11-07": 28,
@@ -43,8 +43,7 @@
       "2024-08-06": 29,
       "2024-07-04": 30,
       "2024-06-12": 312,
-      "2024-06-05": 302,
-      "2024-06-04": 318
+      "2024-06-05": 302
     }
   },
   {
@@ -59,9 +58,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 143,
-    "timeWeek": 108,
-    "timeMonth": 112,
+    "timeDay": 95,
+    "timeWeek": 109,
+    "timeMonth": 111,
     "timeYear": 112,
     "dailyMinutesDown": {}
   },
@@ -76,9 +75,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 335,
-    "timeDay": 350,
-    "timeWeek": 300,
+    "time": 336,
+    "timeDay": 338,
+    "timeWeek": 301,
     "timeMonth": 293,
     "timeYear": 351,
     "dailyMinutesDown": {
@@ -91,8 +90,7 @@
       "2024-09-11": 15,
       "2024-08-06": 28,
       "2024-06-19": 24,
-      "2024-06-05": 302,
-      "2024-06-04": 317
+      "2024-06-05": 302
     }
   },
   {
@@ -109,14 +107,13 @@
     "time": 103,
     "timeDay": 68,
     "timeWeek": 59,
-    "timeMonth": 56,
+    "timeMonth": 57,
     "timeYear": 93,
     "dailyMinutesDown": {
       "2024-11-07": 20,
       "2024-10-17": 18,
       "2024-08-06": 28,
-      "2024-06-05": 302,
-      "2024-06-04": 317
+      "2024-06-05": 302
     }
   }
 ]
