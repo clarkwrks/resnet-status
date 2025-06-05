@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 411,
-    "timeDay": 220,
-    "timeWeek": 226,
-    "timeMonth": 251,
-    "timeYear": 400,
+    "time": 410,
+    "timeDay": 227,
+    "timeWeek": 221,
+    "timeMonth": 246,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2024-12-08": 21
     }
@@ -29,12 +29,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
-    "time": 786,
-    "timeDay": 549,
-    "timeWeek": 519,
+    "uptimeYear": "99.85%",
+    "time": 785,
+    "timeDay": 557,
+    "timeWeek": 539,
     "timeMonth": 574,
-    "timeYear": 722,
+    "timeYear": 721,
     "dailyMinutesDown": {
       "2025-03-26": 36,
       "2024-11-07": 28,
@@ -42,8 +42,7 @@
       "2024-08-15": 34,
       "2024-08-06": 29,
       "2024-07-04": 30,
-      "2024-06-12": 312,
-      "2024-06-05": 302
+      "2024-06-12": 312
     }
   },
   {
@@ -58,9 +57,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 95,
-    "timeWeek": 109,
-    "timeMonth": 111,
+    "timeDay": 69,
+    "timeWeek": 108,
+    "timeMonth": 110,
     "timeYear": 112,
     "dailyMinutesDown": {}
   },
@@ -70,14 +69,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/apps.nsercresnet.ca.ico",
     "slug": "applications",
     "status": "up",
-    "uptime": "98.60%",
+    "uptime": "98.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.91%",
     "time": 336,
-    "timeDay": 338,
-    "timeWeek": 301,
+    "timeDay": 315,
+    "timeWeek": 318,
     "timeMonth": 293,
     "timeYear": 351,
     "dailyMinutesDown": {
@@ -89,8 +88,7 @@
       "2024-10-04": 19,
       "2024-09-11": 15,
       "2024-08-06": 28,
-      "2024-06-19": 24,
-      "2024-06-05": 302
+      "2024-06-19": 24
     }
   },
   {
@@ -103,17 +101,16 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
+    "uptimeYear": "99.93%",
     "time": 103,
-    "timeDay": 68,
-    "timeWeek": 59,
+    "timeDay": 64,
+    "timeWeek": 62,
     "timeMonth": 57,
     "timeYear": 93,
     "dailyMinutesDown": {
       "2024-11-07": 20,
       "2024-10-17": 18,
-      "2024-08-06": 28,
-      "2024-06-05": 302
+      "2024-08-06": 28
     }
   }
 ]
