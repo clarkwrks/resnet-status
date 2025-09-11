@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 372,
-    "timeDay": 256,
-    "timeWeek": 306,
-    "timeMonth": 241,
+    "timeDay": 459,
+    "timeWeek": 340,
+    "timeMonth": 249,
     "timeYear": 398,
     "dailyMinutesDown": {
       "2024-12-08": 21
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/data.nsercresnet.ca.ico",
     "slug": "data-portal",
     "status": "up",
-    "uptime": "94.14%",
+    "uptime": "94.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.91%",
     "time": 864,
-    "timeDay": 601,
-    "timeWeek": 484,
-    "timeMonth": 494,
+    "timeDay": 635,
+    "timeWeek": 485,
+    "timeMonth": 500,
     "timeYear": 821,
     "dailyMinutesDown": {
       "2025-07-18": 1351,
@@ -59,9 +59,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 91,
-    "timeWeek": 161,
-    "timeMonth": 129,
+    "timeDay": 118,
+    "timeWeek": 168,
+    "timeMonth": 130,
     "timeYear": 113,
     "dailyMinutesDown": {}
   },
@@ -77,9 +77,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.90%",
     "time": 319,
-    "timeDay": 360,
-    "timeWeek": 254,
-    "timeMonth": 272,
+    "timeDay": 364,
+    "timeWeek": 259,
+    "timeMonth": 274,
     "timeYear": 309,
     "dailyMinutesDown": {
       "2025-07-18": 1351,
@@ -92,8 +92,7 @@
       "2024-11-07": 27,
       "2024-10-17": 19,
       "2024-10-12": 17,
-      "2024-10-04": 19,
-      "2024-09-11": 15
+      "2024-10-04": 19
     }
   },
   {
@@ -110,7 +109,7 @@
     "time": 87,
     "timeDay": 74,
     "timeWeek": 48,
-    "timeMonth": 53,
+    "timeMonth": 54,
     "timeYear": 89,
     "dailyMinutesDown": {
       "2025-07-18": 1351,
