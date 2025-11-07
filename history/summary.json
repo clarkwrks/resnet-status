@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 359,
-    "timeDay": 150,
-    "timeWeek": 234,
-    "timeMonth": 228,
+    "timeDay": 143,
+    "timeWeek": 219,
+    "timeMonth": 225,
     "timeYear": 315,
     "dailyMinutesDown": {
       "2024-12-08": 21
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/data.nsercresnet.ca.ico",
     "slug": "data-portal",
     "status": "up",
-    "uptime": "94.47%",
+    "uptime": "94.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.91%",
-    "time": 786,
-    "timeDay": 287,
-    "timeWeek": 540,
-    "timeMonth": 560,
+    "time": 785,
+    "timeDay": 303,
+    "timeWeek": 497,
+    "timeMonth": 550,
     "timeYear": 806,
     "dailyMinutesDown": {
       "2025-10-01": 21,
@@ -43,8 +43,7 @@
       "2025-07-15": 436,
       "2025-07-04": 185,
       "2025-07-03": 818,
-      "2025-03-26": 36,
-      "2024-11-07": 28
+      "2025-03-26": 36
     }
   },
   {
@@ -59,9 +58,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
-    "timeDay": 48,
-    "timeWeek": 106,
-    "timeMonth": 115,
+    "timeDay": 57,
+    "timeWeek": 101,
+    "timeMonth": 114,
     "timeYear": 114,
     "dailyMinutesDown": {}
   },
@@ -77,9 +76,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.91%",
     "time": 303,
-    "timeDay": 122,
-    "timeWeek": 287,
-    "timeMonth": 281,
+    "timeDay": 131,
+    "timeWeek": 255,
+    "timeMonth": 274,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2025-07-18": 1351,
@@ -88,8 +87,7 @@
       "2025-07-15": 1440,
       "2025-07-14": 8,
       "2024-11-13": 26,
-      "2024-11-12": 2,
-      "2024-11-07": 27
+      "2024-11-12": 2
     }
   },
   {
@@ -105,16 +103,15 @@
     "uptimeYear": "98.92%",
     "time": 81,
     "timeDay": 23,
-    "timeWeek": 58,
-    "timeMonth": 54,
+    "timeWeek": 50,
+    "timeMonth": 52,
     "timeYear": 91,
     "dailyMinutesDown": {
       "2025-07-18": 1351,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
-      "2025-07-14": 7,
-      "2024-11-07": 20
+      "2025-07-14": 7
     }
   }
 ]
